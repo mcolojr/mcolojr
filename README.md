@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Michael Colonna
+# Hi there 👋 I'm Michael Colonna
 
 <!--
 **mcolojr/mcolojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
