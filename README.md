@@ -19,9 +19,9 @@
 
   <!-- Android & Kotlin -->
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose"/>
   <img src="https://img.shields.io/badge/Kotlin%20Multiplatform-0095D5?style=flat&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Android%20SDK-3DDC84?style=flat&logo=android&logoColor=white" alt="Android SDK"/>
   
   <!-- Cross-Platform & Web -->
@@ -105,6 +105,7 @@
     <img src="https://img.icons8.com/color/96/000000/gmail.png" alt="Gmail" width="45" height="45"/>
   </a>
 </p>
+
 
 <!--
 **mcolojr/mcolojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
