@@ -12,73 +12,69 @@
 # 
 <p align="center">
   <!-- 🚀 Languages & Frameworks -->
-  <img src="https://img.shields.io/badge/Swift-E1E4E8?style=flat&logo=swift&logoColor=000000" alt="Swift"/>
-  <img src="https://img.shields.io/badge/SwiftUI-E1E4E8?style=flat&logo=swift&logoColor=000000" alt="SwiftUI"/>
-  <img src="https://img.shields.io/badge/UIKit-E1E4E8?style=flat&logo=apple&logoColor=000000" alt="UIKit"/>
-  <img src="https://img.shields.io/badge/Objective--C-E1E4E8?style=flat&logo=apple&logoColor=000000" alt="Objective-C"/>
-  <img src="https://img.shields.io/badge/iOS%20SDK-E1E4E8?style=flat&logo=apple&logoColor=000000" alt="iOS SDK"/>
-  <img src="https://img.shields.io/badge/Apple%20HIG-E1E4E8?style=flat&logo=apple&logoColor=000000" alt="Apple HIG"/>
-  
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" alt="Swift"/>
+  <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=flat&logo=swift&logoColor=white" alt="SwiftUI"/>
+  <img src="https://img.shields.io/badge/UIKit-000000?style=flat&logo=apple&logoColor=white" alt="UIKit"/>
+  <img src="https://img.shields.io/badge/Objective--C-000000?style=flat&logo=apple&logoColor=white" alt="Objective-C"/>
+
   <!-- Android & Kotlin -->
-  <img src="https://img.shields.io/badge/Kotlin-E1E4E8?style=flat&logo=kotlin&logoColor=000000" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-E1E4E8?style=flat&logo=jetpack-compose&logoColor=000000" alt="Jetpack Compose"/>
-  <img src="https://img.shields.io/badge/Kotlin%20Multiplatform-E1E4E8?style=flat&logo=kotlin&logoColor=000000" alt="Kotlin Multiplatform"/>
-  <img src="https://img.shields.io/badge/Java-E1E4E8?style=flat&logo=java&logoColor=000000" alt="Java"/>
-  <img src="https://img.shields.io/badge/Android%20SDK-E1E4E8?style=flat&logo=android&logoColor=000000" alt="Android SDK"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose"/>
+  <img src="https://img.shields.io/badge/Kotlin%20Multiplatform-0095D5?style=flat&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Android%20SDK-3DDC84?style=flat&logo=android&logoColor=white" alt="Android SDK"/>
   
   <!-- Cross-Platform & Web -->
-  <img src="https://img.shields.io/badge/React%20Native-E1E4E8?style=flat&logo=react&logoColor=000000" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Flutter-E1E4E8?style=flat&logo=flutter&logoColor=000000" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Node.js-E1E4E8?style=flat&logo=node.js&logoColor=000000" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/JavaScript-E1E4E8?style=flat&logo=javascript&logoColor=000000" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E1E4E8?style=flat&logo=html5&logoColor=000000" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/C%23-E1E4E8?style=flat&logo=csharp&logoColor=000000" alt="C#"/>
-  <img src="https://img.shields.io/badge/Arduino-E1E4E8?style=flat&logo=arduino&logoColor=000000" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino"/>
   
   <!-- 🔧 Development Tools -->
-  <img src="https://img.shields.io/badge/Xcode-E1E4E8?style=flat&logo=xcode&logoColor=000000" alt="Xcode"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-E1E4E8?style=flat&logo=android-studio&logoColor=000000" alt="Android Studio"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-E1E4E8?style=flat&logo=visual-studio-code&logoColor=000000" alt="Visual Studio Code"/>
-  <img src="https://img.shields.io/badge/JIRA-E1E4E8?style=flat&logo=jira&logoColor=000000" alt="JIRA"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-E1E4E8?style=flat&logo=visual-studio-code&logoColor=000000" alt="Visual Studio Code"/>
-  <img src="https://img.shields.io/badge/Fastlane-E1E4E8?style=flat&logo=fastlane&logoColor=000000" alt="Fastlane"/>
-  <img src="https://img.shields.io/badge/CI/CD-E1E4E8?style=flat&logo=github-actions&logoColor=000000" alt="CI/CD"/>
-  <img src="https://img.shields.io/badge/Git-E1E4E8?style=flat&logo=git&logoColor=000000" alt="Git"/>
-  <img src="https://img.shields.io/badge/Firebase-E1E4E8?style=flat&logo=firebase&logoColor=000000" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Amazon%20AWS-E1E4E8?style=flat&logo=amazon-aws&logoColor=000000" alt="AWS"/>
-  <img src="https://img.shields.io/badge/SQLite-E1E4E8?style=flat&logo=sqlite&logoColor=000000" alt="SQLite"/> 
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white" alt="Xcode"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" alt="Android Studio"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white" alt="JIRA"/>
+  <img src="https://img.shields.io/badge/Fastlane-00F200?style=flat&logo=fastlane&logoColor=white" alt="Fastlane"/>
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat&logo=github-actions&logoColor=white" alt="CI/CD"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Amazon%20AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/> 
 
   <!-- Third-Party Libraries and Tools -->
-  <img src="https://img.shields.io/badge/RxSwift-E1E4E8?style=flat&logoColor=000000" alt="RxSwift"/>
-  <img src="https://img.shields.io/badge/RxCocoa-E1E4E8?style=flat&logoColor=000000" alt="RxCocoa"/>
-  <img src="https://img.shields.io/badge/CocoaPods-E1E4E8?style=flat&logo=cocoapods&logoColor=000000" alt="CocoaPods"/>
-  <img src="https://img.shields.io/badge/SDWebImage-E1E4E8?style=flat&logoColor=000000" alt="SDWebImage"/>
-  <img src="https://img.shields.io/badge/Lottie-E1E4E8?style=flat&logo=lottie&logoColor=000000" alt="Lottie"/>
-  <img src="https://img.shields.io/badge/Mapbox-E1E4E8?style=flat&logo=mapbox&logoColor=000000" alt="Mapbox"/>
-  <img src="https://img.shields.io/badge/Google%20Maps-E1E4E8?style=flat&logo=google-maps&logoColor=000000" alt="Google Maps"/>
+  <img src="https://img.shields.io/badge/RxSwift-DD0B78?style=flat&logoColor=white" alt="RxSwift"/>
+  <img src="https://img.shields.io/badge/ReactorKit-DD0B78?style=flat&logoColor=white" alt="ReactorKit"/>
+  <img src="https://img.shields.io/badge/RxCocoa-DD0B78?style=flat&logoColor=white" alt="RxCocoa"/>
+  <img src="https://img.shields.io/badge/CocoaPods-E1E4E8?style=flat&logo=cocoapods&logoColor=black" alt="CocoaPods"/>
+  <img src="https://img.shields.io/badge/Lottie-FF9900?style=flat&logo=lottie&logoColor=white" alt="Lottie"/>
+  <img src="https://img.shields.io/badge/Mapbox-000000?style=flat&logo=mapbox&logoColor=white" alt="Mapbox"/>
+  <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=flat&logo=google-maps&logoColor=white" alt="Google Maps"/>
 
    <!-- 🎨 Design & Prototyping -->
-  <img src="https://img.shields.io/badge/Figma-E1E4E8?style=flat&logo=figma&logoColor=000000" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Sketch-E1E4E8?style=flat&logo=sketch&logoColor=000000" alt="Sketch"/>
-  <img src="https://img.shields.io/badge/Adobe%20XD-E1E4E8?style=flat&logo=adobe-xd&logoColor=000000" alt="Adobe XD"/>
-  <img src="https://img.shields.io/badge/Photoshop-E1E4E8?style=flat&logo=adobe-photoshop&logoColor=000000" alt="Photoshop"/>
-  <img src="https://img.shields.io/badge/Illustrator-E1E4E8?style=flat&logo=adobe-illustrator&logoColor=000000" alt="Illustrator"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Sketch-F7B500?style=flat&logo=sketch&logoColor=black" alt="Sketch"/>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-330000?style=flat&logo=adobe-illustrator&labelColor=FF9A01" alt="Adobe Illustrator"/>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-011E36?style=flat&logo=adobe-photoshop&labelColor=31A8FF" alt="Adobe Photoshop"/>
+  <img src="https://img.shields.io/badge/Adobe%20XD-450237?style=flat&logo=adobe-xd&labelColor=FF64F7" alt="Adobe XD"/>
 
-  
+    
   <!-- 📱 App Deployment & Distribution -->
-  <img src="https://img.shields.io/badge/App%20Store-E1E4E8?style=flat&logo=app-store&logoColor=000000" alt="App Store"/>  
-
+  <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=flat&logo=app-store&logoColor=white" alt="App Store"/>  
 </p>
-
 
 <p align="center">
   <!-- iOS Specific Frameworks and Tools -->
+  <img src="https://img.shields.io/badge/iOS%20SDK-E1E4E8?style=flat&logo=apple&logoColor=000000" alt="iOS SDK"/>
   <img src="https://img.shields.io/badge/Combine-E1E4E8?style=flat&logo=apple&logoColor=000000" alt="Combine"/>
   <img src="https://img.shields.io/badge/CoreData-E1E4E8?style=flat&logo=apple&logoColor=000000" alt="CoreData"/>
   <img src="https://img.shields.io/badge/SwiftData-E1E4E8?style=flat&logo=apple&logoColor=000000" alt="SwiftData"/>
   <img src="https://img.shields.io/badge/CoreAnimation-E1E4E8?style=flat&logo=apple&logoColor=000000" alt="CoreAnimation"/>
   <img src="https://img.shields.io/badge/MapKit-E1E4E8?style=flat&logo=apple&logoColor=000000" alt="MapKit"/>
-  <img src="https://img.shields.io/badge/SwiftPackageManager-E1E4E8?style=flat&logo=apple&logoColor=000000" alt="SwiftPackageManager"/>
+  <img src="https://img.shields.io/badge/Swift%20Package%20Manager-E1E4E8?style=flat&logo=apple&logoColor=000000" alt="SwiftPackageManager"/>
   <img src="https://img.shields.io/badge/CoreBluetooth-E1E4E8?style=flat&logo=apple&logoColor=000000" alt="CoreBluetooth"/>
   <img src="https://img.shields.io/badge/Wifi-E1E4E8?style=flat&logo=apple&logoColor=000000" alt="Wifi"/>
   <img src="https://img.shields.io/badge/SceneKit-E1E4E8?style=flat&logo=apple&logoColor=000000" alt="SceneKit"/>
@@ -87,7 +83,11 @@
   <img src="https://img.shields.io/badge/CloudKit-E1E4E8?style=flat&logo=apple&logoColor=000000" alt="CloudKit"/>
   <img src="https://img.shields.io/badge/HealthKit-E1E4E8?style=flat&logo=apple&logoColor=000000" alt="HealthKit"/>
   <img src="https://img.shields.io/badge/AVFoundation-E1E4E8?style=flat&logo=apple&logoColor=000000" alt="AVFoundation"/>
+  <img src="https://img.shields.io/badge/watchOS-E1E4E8?style=flat&logo=apple&logoColor=000000" alt="watchOS"/>
+  <img src="https://img.shields.io/badge/visionOS-E1E4E8?style=flat&logo=apple&logoColor=000000" alt="visionOS"/>
+  <img src="https://img.shields.io/badge/Apple%20HIG-E1E4E8?style=flat&logo=apple&logoColor=000000" alt="Apple HIG"/>
 </p>
+
 
 
 <!-- Centered Subheading -->
