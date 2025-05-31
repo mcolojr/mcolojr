@@ -5,7 +5,7 @@
 - 🌍 From USA, Living in Germany  
 - 🎯 Focused on Swift, SwiftUI, and iOS frameworks
 - ⚓️ U.S. Navy Veteran
-- 🐝 Currently working on an iOS app which helps couples manage their household chores together & my latest iOS app, Proudly
+- 🐝 Currently working on an iOS app which helps couples manage their household chores together & my implementing features for my latest iOS app, Proudly
 - 🌱 Learning more about cross-platform development with Kotlin Multiplatform, React Native, and Flutter
 - 📱 Check out my apps in the App Store: [Qew it! - Your To-Look-Up App](https://apps.apple.com/us/app/qew-it-your-to-look-up-app/id1469611711), [Proudly: Seccess Journal](https://apps.apple.com/us/app/proudly-reflect-remind/id6746349908)
 
